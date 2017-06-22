@@ -1,3 +1,4 @@
+kdenlive-crash-fix.patch
 01-crash-affine.diff
 02-crash-clipinfo-update.diff
 03-use-external-libebur.diff
